@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://c.tenor.com/OeR1c3a2ia8AAAAC/pokemon-alegria.gif);
+    background-size: cover;
+}
+.heading{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-shadow: seashell;
+}
+.head{
+    margin-top: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: seashell;
+}
+.button{
+    justify-content: center;
+}
